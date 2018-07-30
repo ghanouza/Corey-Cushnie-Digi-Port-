@@ -1,0 +1,45 @@
+
+
+body {
+  text-align: center;
+  background-image: url(../../Assets/Backgrounds/BeFunky-project.jpg);
+  background-repeat: repeat-y;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+
+}
+img {
+  height: auto;
+  width: 30%;
+}
+article {
+  margin-left: 25%;
+  margin-right: 25%;
+}
+.fc {
+  font-size: 30px;
+  font-family: monospace;
+  color: white;
+  text-shadow: 3px 3px 2px black;
+}
+
+h5 {
+  margin-left: none;
+  margin-right: none;
+}
+
+.logo {
+  height: 40px;
+  width: auto;
+}
+
+.logo:hover {
+  height: 50px;
+  width: auto;
+  opacity: 0.5;
+}
+
+.tWrite {
+  overflow: hidden;
+}
