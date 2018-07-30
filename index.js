@@ -17,6 +17,11 @@ var words = [
 let i = 0;
 let timer;
 
+
+// Copied code from the internet. 
+// Have an idea of how the concept works and will venture do my own version.
+
+
 function typingEffect() {
 	let word = words[i].split("");
 	var loopTyping = function() {
